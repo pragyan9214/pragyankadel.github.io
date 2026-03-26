@@ -1,0 +1,29 @@
+baseURL = 'https://pragyankadel.github.io/'
+locale = 'en-us'
+title = 'Pragyan Kadel Blog'
+theme="risotto"
+
+[[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+[[menu.main]]
+    name = "Experience"
+    url = "/experience/"
+    weight = 10
+
+[[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+
+[[menu.main]]
+    name = "Education"
+    url = "/education/"
+    weight = 30
+
+[[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 40
